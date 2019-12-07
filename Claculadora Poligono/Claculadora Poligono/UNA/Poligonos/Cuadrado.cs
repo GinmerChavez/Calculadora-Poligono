@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace UNA.Poligonos
+{
+    public class Cuadrado : Poligono
+    {
+        public double Lado
+        {
+            get;
+            set;
+
+        }
+
+        public override double CalcularPerimetro()
+        {
+            return Lado * 4;
+        }
+
+        public override double CalcularArea()
+        {
+            return Lado * Lado;
+        }
+    }
+}

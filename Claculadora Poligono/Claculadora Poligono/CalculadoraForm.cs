@@ -21,5 +21,30 @@ namespace Claculadora_Poligono
         {
 
         }
+
+        private void Lado1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void trianguloTabPage_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Base_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Altura_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void calcularPerimetrobutton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
