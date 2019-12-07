@@ -16,7 +16,7 @@ namespace Claculadora_Poligono
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CalculadoraPoligonosForm1());
+            Application.Run(new CalculadoraForm());
         }
     }
 }
