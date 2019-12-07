@@ -1,0 +1,10 @@
+C:\Users\lab\Documents\GitHub\Calculadora-Poligono\Claculadora Poligono\Claculadora Poligono\bin\Debug\Claculadora Poligono.exe.config
+C:\Users\lab\Documents\GitHub\Calculadora-Poligono\Claculadora Poligono\Claculadora Poligono\bin\Debug\Claculadora Poligono.exe
+C:\Users\lab\Documents\GitHub\Calculadora-Poligono\Claculadora Poligono\Claculadora Poligono\bin\Debug\Claculadora Poligono.pdb
+C:\Users\lab\Documents\GitHub\Calculadora-Poligono\Claculadora Poligono\Claculadora Poligono\obj\Debug\Claculadora Poligono.csprojAssemblyReference.cache
+C:\Users\lab\Documents\GitHub\Calculadora-Poligono\Claculadora Poligono\Claculadora Poligono\obj\Debug\Claculadora_Poligono.CalculadoraPoligonosForm1.resources
+C:\Users\lab\Documents\GitHub\Calculadora-Poligono\Claculadora Poligono\Claculadora Poligono\obj\Debug\Claculadora_Poligono.Properties.Resources.resources
+C:\Users\lab\Documents\GitHub\Calculadora-Poligono\Claculadora Poligono\Claculadora Poligono\obj\Debug\Claculadora Poligono.csproj.GenerateResource.cache
+C:\Users\lab\Documents\GitHub\Calculadora-Poligono\Claculadora Poligono\Claculadora Poligono\obj\Debug\Claculadora Poligono.csproj.CoreCompileInputs.cache
+C:\Users\lab\Documents\GitHub\Calculadora-Poligono\Claculadora Poligono\Claculadora Poligono\obj\Debug\Claculadora Poligono.exe
+C:\Users\lab\Documents\GitHub\Calculadora-Poligono\Claculadora Poligono\Claculadora Poligono\obj\Debug\Claculadora Poligono.pdb
